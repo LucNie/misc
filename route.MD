@@ -1,5 +1,3 @@
-Voici une amélioration de la documentation :
-
 **Besoin API pour l'application Ia Prédiction**
 remarque avant de commencer :
 - le nom des routes sont définit comme vous le souhaitez
