@@ -4,7 +4,7 @@ Voici une amélioration de la documentation :
 remarque avant de commencer :
 - le nom des routes sont définit comme vous le souhaitez
 - je me suis référé à la documentation de BDD modèle conceptuel.docx pour les associations entre les tables
-- pour les routes put, il faut que je voye avec le responsable de la BDD pour rajouter les besoin de l'IA dans la BDD ( les routes commencant par "*" sont a mettre après avoir rajouter les besoins de l'IA dans la BDD )
+- pour les routes put, il faut que je voye avec le responsable de la BDD pour rajouter les besoin de l'IA dans la BDD ( les routes commencant par "*" sont a mettre après que j'ai rajouter les besoins de l'IA dans la BDD )
 
 ## Routes GET
 
