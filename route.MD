@@ -23,6 +23,9 @@ Les routes Get sont utilisées pour récupérer des données pour les données d
 
 Les routes Put sont utilisées pour enregistrer des données concernant les données de sorties de l'IA
 qui iront dans la base de données de l'ia.
+
+## Routes PUT
+
 **Route PUT** IA avec parametre :
 | Route | Description |
 | ------ | ------ |
